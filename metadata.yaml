@@ -1,0 +1,31 @@
+_repo: Heroes-of-the-Great-Conflict--Life-and-Services-of-William-FarrarSmith-Major-General-United-S__14429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, James Harrison
+    alias: Gi, Reishin
+    birthdate: 1837
+    deathdate: 1925
+    gutenberg_agent_id: '5521'
+    url: http://www.gutenberg.org/2009/agents/5521
+    wikipedia: http://en.wikipedia.org/wiki/James_H._Wilson
+description: ''
+gutenberg_issued: '2004-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Biography'
+- !lcsh 'Smith, William Farrar, 1824-1903'
+title: 'Heroes of the Great Conflict; Life and Services of William Farrar
+
+  Smith, Major General, United States Volunteer in the Civil War'
+url: http://www.gutenberg.org/ebooks/14429
